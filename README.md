@@ -33,5 +33,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 📞 Contact
 For support or questions, reach out to:
-- 🌐 GitHub: [github.com/your-username/flow-tasker](https://github.com/caocong2KB6)
+- 🌐 GitHub: [github.com/caocong2KB6/flow-tasker](https://github.com/caocong2KB6)
 
